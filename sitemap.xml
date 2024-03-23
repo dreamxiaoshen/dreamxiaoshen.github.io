@@ -2,18 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://dreamxiaoshen.github.io/2024/03/21/uniapp/</loc>
+    <loc>http://dreamxiaoshen.github.io/2024/03/23/linux/</loc>
     
-    <lastmod>2024-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://dreamxiaoshen.github.io/2024/03/21/javaweb/</loc>
-    
-    <lastmod>2024-03-21</lastmod>
+    <lastmod>2024-03-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +13,25 @@
   <url>
     <loc>http://dreamxiaoshen.github.io/2024/03/21/java/</loc>
     
-    <lastmod>2024-03-21</lastmod>
+    <lastmod>2024-03-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://dreamxiaoshen.github.io/2024/03/21/javaweb/</loc>
+    
+    <lastmod>2024-03-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://dreamxiaoshen.github.io/2024/03/23/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc>
+    
+    <lastmod>2024-03-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,7 +40,16 @@
   <url>
     <loc>http://dreamxiaoshen.github.io/2024/03/18/hexo/</loc>
     
-    <lastmod>2024-03-20</lastmod>
+    <lastmod>2024-03-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://dreamxiaoshen.github.io/2024/03/21/uniapp/</loc>
+    
+    <lastmod>2024-03-21</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -83,6 +101,27 @@
 
   
   <url>
+    <loc>http://dreamxiaoshen.github.io/tags/Hexo/</loc>
+    <lastmod>2024-03-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://dreamxiaoshen.github.io/tags/java/</loc>
+    <lastmod>2024-03-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://dreamxiaoshen.github.io/tags/linux/</loc>
+    <lastmod>2024-03-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://dreamxiaoshen.github.io/tags/uniApp/</loc>
     <lastmod>2024-03-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -90,13 +129,34 @@
   </url>
   
   <url>
-    <loc>http://dreamxiaoshen.github.io/tags/Hexo/</loc>
+    <loc>http://dreamxiaoshen.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc>
     <lastmod>2024-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
 
+  
+  <url>
+    <loc>http://dreamxiaoshen.github.io/categories/Hexo/</loc>
+    <lastmod>2024-03-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://dreamxiaoshen.github.io/categories/java/</loc>
+    <lastmod>2024-03-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://dreamxiaoshen.github.io/categories/linux/</loc>
+    <lastmod>2024-03-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>http://dreamxiaoshen.github.io/categories/uniAPP/</loc>
@@ -106,7 +166,7 @@
   </url>
   
   <url>
-    <loc>http://dreamxiaoshen.github.io/categories/Hexo/</loc>
+    <loc>http://dreamxiaoshen.github.io/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc>
     <lastmod>2024-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
