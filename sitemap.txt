@@ -1,8 +1,13 @@
+http://dreamxiaoshen.github.io/2024/03/21/uniapp/
+http://dreamxiaoshen.github.io/2024/03/21/javaweb/
+http://dreamxiaoshen.github.io/2024/03/21/java/
 http://dreamxiaoshen.github.io/2024/03/18/hexo/
 http://dreamxiaoshen.github.io/categories/index.html
 http://dreamxiaoshen.github.io/link/index.html
 http://dreamxiaoshen.github.io/about/index.html
 http://dreamxiaoshen.github.io/tags/index.html
 http://dreamxiaoshen.github.io/
+http://dreamxiaoshen.github.io/tags/uniApp/
 http://dreamxiaoshen.github.io/tags/Hexo/
+http://dreamxiaoshen.github.io/categories/uniAPP/
 http://dreamxiaoshen.github.io/categories/Hexo/
